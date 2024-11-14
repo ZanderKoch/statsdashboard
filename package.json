@@ -1,0 +1,21 @@
+{
+  "name": "statsdashboard-public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZanderKoch/statsdashboard.git"
+  },
+  "author": "https://github.com/ZanderKoch",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ZanderKoch/statsdashboard/issues"
+  },
+  "homepage": "https://github.com/ZanderKoch/statsdashboard#readme",
+  "description": "",
+  "dependencies": {
+  }
+}
