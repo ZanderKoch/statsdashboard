@@ -24,3 +24,15 @@ const params = {
   locOrgsRange: [1, /* 500 */ 100],
   orgJobsRange: [1, 8],
 };
+
+//create locations objects with orgs
+const locations = params.locations.map((location) => {
+  return {
+    [location]: new Set(
+      faker.helpers.multiple(faker.person.jobArea, {
+        count: { min: params.locOrgsRange[0], max: params.locOrgsRange[1] },
+      })
+    ),
+  };
+});
+console.log("locations: ", locations);

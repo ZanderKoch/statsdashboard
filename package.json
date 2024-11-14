@@ -18,5 +18,6 @@
   "homepage": "https://github.com/ZanderKoch/statsdashboard#readme",
   "description": "",
   "dependencies": {
+    "@faker-js/faker": "^9.2.0"
   }
 }
