@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Alvesta",
+        "x": 802,
+        "y":426,
+        "styles": {}
+    },
+    {
+        "name": "Grimslöv",
+        "x": 791,
+        "y": 615,
+        "styles": {}
+    },
+    {
+        "name": "Ingelstad",
+        "x": 1023,
+        "y": 603,
+        "styles": {}
+    },
+    {
+        "name": "Karlskrona",
+        "x": 1164,
+        "y": 1003,
+        "styles": {}
+    },
+    {
+        "name": "Lagan",
+        "x": 447,
+        "y":406,
+        "styles": {}
+    },
+    {
+        "name": "Lammhult",
+        "x": 813,
+        "y": 142,
+        "styles": {}
+    },
+    {
+        "name": "Lenhovda",
+        "x": 1255,
+        "y":315,
+        "styles": {}
+    },
+    {
+        "name": "Lessebo",
+        "x": 1246,
+        "y": 590,
+        "styles": {}
+    },
+    {
+        "name": "Ljungby",
+        "x": 410,
+        "y": 500,
+        "styles": {}
+    },
+    {
+        "name": "Markaryd",
+        "x": 195,
+        "y": 880,
+        "styles": {}
+    },
+    {
+        "name": "Moheda",
+        "x": 812,
+        "y": 305,
+        "styles": {}
+    },
+    {
+        "name": "Rottne",
+        "x": 1011,
+        "y": 284,
+        "styles": {}
+    },
+    {
+        "name": "Ryd",
+        "x": 888,
+        "y": 928,
+        "styles": {}
+    },
+    {
+        "name": "Strömsnäsbruk",
+        "x": 288,
+        "y": 825,
+        "styles": {}
+    },
+    {
+        "name": "Tingsryd",
+        "x": 1061,
+        "y": 849,
+        "styles": {}
+    },
+    {
+        "name": "Växjö",
+        "x": 958,
+        "y": 451,
+        "styles": {}
+    }
+]
