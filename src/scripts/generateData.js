@@ -17,13 +17,13 @@ function getLocationNameListFromFile(path) {
 //generation parameters
 const params = {
   locations: getLocationNameListFromFile('locations.json'),
-  users: /* 500 */ 10,
+  users: 500,
   completions: 10000,
   jobs: 25,
   courses: 750,
   startDate: new Date(2019, 0, 1),
   endDate: new Date(2024, 11, 31),
-  locOrgsRange: [1, /* 500 */ /* 100 */ 5],
+  locOrgsRange: [1, 100],
   orgJobsRange: [1, 8],
 };
 
