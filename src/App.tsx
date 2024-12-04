@@ -27,7 +27,7 @@ const App: React.FC = () => {
   const currentYear = new Date().getFullYear();
   const dataDateBounds: DateRange = {
     startDate: new Date(2019, 0),
-    endDate: new Date(currentYear, 11), //december of current year
+    endDate: new Date(currentYear, 11, 31), //december of current year
   };
   const [selectedDateRange, setSelectedDateRange] =
     useState<DateRange>(dataDateBounds);
