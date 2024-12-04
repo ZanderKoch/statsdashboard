@@ -5,7 +5,7 @@ because of the exploratory nature of the project and the organization not not no
 
 # How it works
 
-The first step would normally have been to get a `.csv` report file of course completions from FoUU's Learning Management System. That data is confidential though so I am working on a script that generates suitable dummy data.
+The first step would normally have been to get a `.csv` report file of course completions from FoUU's Learning Management System. That data is confidential though so I have made a script that generates suitable dummy data.
 
 The `.csv` file should be named `input.csv` and placed in the root directory of the project so the script `processData.js` can find it.
 That script will then read all the data in the `.csv` file, cryptographically hash the usernames and add the data to an SQLite database which is saved as a `.sqlite` file in the `public` directory.
